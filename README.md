@@ -1,0 +1,1 @@
+This repo contains OpenMP implementation of Weight Balancing problem. This is an NP-hard problem, so the only way to find the exact solution is to enumerate all possible combinations and choose the one which gives the minimum difference between the two sets. 
